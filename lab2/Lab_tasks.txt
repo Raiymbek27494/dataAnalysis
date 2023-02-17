@@ -1,0 +1,15 @@
+1) Read date, high and low price data
+df['Date'], df['High'], df['Low']
+
+2) Convert data to numpy arrays
+[[[data, high, low]]]
+
+3) Create a simple plot using date and high price
+
+4) Show simple plot for date and low price
+
+5) Create subplot and fill between cross point of low and high data
+
+6) Create subplots (main and 2 inserted plots)
+
+7) Save image was created in 6
